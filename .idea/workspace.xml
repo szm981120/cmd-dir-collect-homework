@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="收数据库作业.jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfb4857a-6fbc-4fcc-9e39-b34e821b2f38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a7ZlvsFUHgxKM5uRe3GXtxO54v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DriveY\IntelliJ\cmd_dir" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DriveY\IntelliJ\cmd_dir\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CheckGUI">
+    <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Check" />
+      <module name="cmd_dir" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckGUI" />
+      <module name="cmd_dir" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CheckGUI" />
+        <item itemvalue="Application.Check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfb4857a-6fbc-4fcc-9e39-b34e821b2f38" name="Default Changelist" comment="" />
+      <created>1586088746489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586088746489</updated>
+      <workItem from="1586088749246" duration="3373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586088884008">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="96" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760/2560.0.1280.680@0.0.1280.760" timestamp="1586088884008" />
+    <state x="383" y="183" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586089285469">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="383" y="183" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.760/2560.0.1280.680@0.0.1280.760" timestamp="1586089285469" />
+    <state x="372" y="166" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586091157287">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="372" y="166" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.760/2560.0.1280.680@0.0.1280.760" timestamp="1586091157287" />
+    <state x="421" y="106" key="FileChooserDialogImpl" timestamp="1586089973303">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="421" y="106" key="FileChooserDialogImpl/0.0.1280.760/2560.0.1280.680@0.0.1280.760" timestamp="1586089973303" />
+    <state width="1238" height="194" key="GridCell.Tab.0.bottom" timestamp="1586092136157">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="194" key="GridCell.Tab.0.bottom/0.0.1280.760/2560.0.1280.680@0.0.1280.760" timestamp="1586092136157" />
+    <state width="1238" height="194" key="GridCell.Tab.0.center" timestamp="1586092136157">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="194" key="GridCell.Tab.0.center/0.0.1280.760/2560.0.1280.680@0.0.1280.760" timestamp="1586092136157" />
+    <state width="1238" height="194" key="GridCell.Tab.0.left" timestamp="1586092136157">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="194" key="GridCell.Tab.0.left/0.0.1280.760/2560.0.1280.680@0.0.1280.760" timestamp="1586092136157" />
+    <state width="1238" height="194" key="GridCell.Tab.0.right" timestamp="1586092136157">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="194" key="GridCell.Tab.0.right/0.0.1280.760/2560.0.1280.680@0.0.1280.760" timestamp="1586092136157" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1586091178388">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.760/2560.0.1280.680@0.0.1280.760" timestamp="1586091178388" />
+    <state x="304" y="83" width="672" height="678" key="search.everywhere.popup" timestamp="1586090869366">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="304" y="83" width="672" height="678" key="search.everywhere.popup/0.0.1280.760/2560.0.1280.680@0.0.1280.760" timestamp="1586090869366" />
+  </component>
+</project>
